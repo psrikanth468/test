@@ -1,9 +1,9 @@
 Hi this 
-<<<<<<< ef8f60cf461169a719a0352715c649c2c720daab
+60cf461169a719a0352715c649c2c720daab
 zzxxxx
 is srikanthXX
-=======
+
 
 is srikanth
 How are you ?hsdgsdjdsjZZZ
->>>>>>> 7
+
